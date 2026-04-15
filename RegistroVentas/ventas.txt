@@ -1,1 +1,3 @@
-
+23/07/2025,Computadora ASUS,2,40000.0
+13/04/2026,Plumones para Pizarron Blanco,8,134.5
+03/03/2026,Lapicera,5,482.0

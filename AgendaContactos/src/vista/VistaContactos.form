@@ -109,7 +109,7 @@
               <Font name="Serif" size="14" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/img/botones/application_WLM_contacts_messaging_2485.png"/>
+              <Image iconType="3" name="/img/botones/contactos.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="AGREGAR"/>
           </Properties>
@@ -129,7 +129,7 @@
               <Font name="Serif" size="14" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/img/botones/folder_contacts_16608.png"/>
+              <Image iconType="3" name="/img/botones/listacontactos.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="MOSTRAR CONTACTOS"/>
           </Properties>

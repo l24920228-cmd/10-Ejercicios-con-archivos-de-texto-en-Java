@@ -1,1 +1,4 @@
-
+24920225,Alejandro Luna López,Ingeniería Informática, 100.0
+22920239,Juan Enrique Perez Santiago,Ingeniería en Gestión Empresarial, 95.0
+24920228,Axel Tadeo Vásquez López,Ingeniería Informática, 100.0
+24920218,Angel Vidal Martinez Ramirez,Ingeniería Forestal, 80.0

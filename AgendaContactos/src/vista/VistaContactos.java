@@ -60,7 +60,7 @@ public class VistaContactos extends javax.swing.JFrame {
         bgPanelConsulta.add(txtTelefono, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 170, 250, -1));
 
         btnAgregar.setFont(new java.awt.Font("Serif", 1, 14)); // NOI18N
-        btnAgregar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/botones/application_WLM_contacts_messaging_2485.png"))); // NOI18N
+        btnAgregar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/botones/contactos.png"))); // NOI18N
         btnAgregar.setText("AGREGAR");
         btnAgregar.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -75,7 +75,7 @@ public class VistaContactos extends javax.swing.JFrame {
         bgPanelConsulta.add(btnAgregar, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 280, 140, -1));
 
         btnMostrarContactos.setFont(new java.awt.Font("Serif", 1, 14)); // NOI18N
-        btnMostrarContactos.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/botones/folder_contacts_16608.png"))); // NOI18N
+        btnMostrarContactos.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/botones/listacontactos.png"))); // NOI18N
         btnMostrarContactos.setText("MOSTRAR CONTACTOS");
         btnMostrarContactos.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
